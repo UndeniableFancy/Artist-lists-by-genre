@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Rock artists",
+    "distinct_source_names": 449,
+    "matched_names": 447,
+    "published_unique_ids": 447,
+    "unresolved_names": 2
+  },
+  {
+    "title": "HipHop Artists",
+    "distinct_source_names": 191,
+    "matched_names": 191,
+    "published_unique_ids": 191,
+    "unresolved_names": 0
+  },
+  {
+    "title": "Jazz Artists",
+    "distinct_source_names": 1067,
+    "matched_names": 1053,
+    "published_unique_ids": 1042,
+    "unresolved_names": 14
+  },
+  {
+    "title": "Electronics Artists",
+    "distinct_source_names": 333,
+    "matched_names": 331,
+    "published_unique_ids": 328,
+    "unresolved_names": 2
+  }
+]
