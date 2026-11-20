@@ -24,7 +24,12 @@
     "title": "Electronics Artists",
     "distinct_source_names": 333,
     "matched_names": 331,
-    "published_unique_ids": 328,
-    "unresolved_names": 2
+    "published_unique_ids": 7952,
+    "unresolved_names": 2,
+    "original_published_unique_ids": 328,
+    "added_unique_ids": 7624,
+    "expansion_tagged_records": 7851,
+    "expansion_complete": false,
+    "original_source_counts_note": "Source and matched-name counts describe the original CSV only."
   }
 ]
