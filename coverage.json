@@ -10,8 +10,17 @@
     "title": "HipHop Artists",
     "distinct_source_names": 191,
     "matched_names": 191,
-    "published_unique_ids": 191,
-    "unresolved_names": 0
+    "published_unique_ids": 7952,
+    "unresolved_names": 0,
+    "original_published_unique_ids": 191,
+    "added_unique_ids": 7761,
+    "expansion_tagged_records": 7797,
+    "curated_unresolved_names": 22,
+    "original_source_counts_note": "Source-name, matched-name and unresolved-name counts refer to the original CSV. Expansion research has separate coverage and omission reports.",
+    "focused_lists": {
+      "early_and_golden_age": 79,
+      "youngstown_ohio": 5
+    }
   },
   {
     "title": "Jazz Artists",
